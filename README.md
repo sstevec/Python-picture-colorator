@@ -12,7 +12,7 @@ How to use this colorator
                 
 [Change To]: Click this button to open up a color panel, you can choose the target color from this panel.
 
-[Render Range]: You need to input a number here with range 1 - 195075, the larger this number is, the more color it would change
+[Render Range]: You need to input a number here with range 1 - 195075, the larger this number is, the more color it would change.
                 For example, you want to change the white color into black, if you have a large render range, the program would also
                 change those color close to white into black like light grey, if you have just 1, then this program would strictly restrict to
                 just white color.
